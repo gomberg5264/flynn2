@@ -1,0 +1,8 @@
+bin
+.vagrant
+script/custom-vagrant
+demo/*.log
+*.swp
+*.test
+/tmp
+/build
